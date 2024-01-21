@@ -1,0 +1,41 @@
+div {
+    color: red;
+    width: 50px;
+    height: 30%;
+}
+
+h5 {
+    background: #b0b0b0;
+    color: #ffffff;
+    text-size: 25px;
+}
+
+#zielony-div {
+    color: green;
+    text-align: center;
+}
+
+.ramka {
+    border: 1px solid pink;
+    border-radius: 5px;
+    margin: 10px 0 15px 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+    border: 10px solid black;
+    margin: 10px 20px;
+}
+
+div div {
+    background: yellow;
+}
+
+div .cos {
+}
+
+div a p .jakasklasa {
+
+}
